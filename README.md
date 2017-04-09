@@ -44,7 +44,7 @@ And to use it in a template:
 Result is as follows:
 
 <div align="center">
-  <img width="300" heigth="400" src="/src/assets/bars.png">
+  <img width="300" heigth="400" src="/src/assets/bar.png">
 </div>
 
 ## Available graphs
