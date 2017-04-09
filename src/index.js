@@ -1,6 +1,6 @@
 import Sparklines from './components/Sparklines.js'
-import Linecharts from './components/Linecharts.vue'
-import Barcharts from './components/Barcharts.vue'
+import Linecharts from './components/Linecharts.js'
+import Barcharts from './components/Barcharts.js'
 
 const UXgraph = {
 	Sparklines,

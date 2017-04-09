@@ -98,6 +98,7 @@ export default Vue.extend({
         .attr('class', 'spark-path')
         .attr("transform", "translate(" + margins.right + ", " + margins.top + ")")
         .attr('stroke', color)
+        .attr('fill', none)
         .attr('d', line(data))
 
       if(circle){
