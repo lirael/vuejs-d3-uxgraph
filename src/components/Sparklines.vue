@@ -1,6 +1,8 @@
-<template></template>
+<template>
+  <div></div>
+</template>
 <script>
-import Vue from 'vue'
+import Vue from 'vue/dist/vue.js'
 import * as d3 from 'd3'
 import $ from 'jquery'
 
