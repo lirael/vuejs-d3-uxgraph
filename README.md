@@ -72,5 +72,5 @@ More graphs would be added during the next stage
 
 ## License
 
-This software is distributed under [MIT license](LICENSE.txt).
+This software is distributed under [MIT license](LICENSE).
 
