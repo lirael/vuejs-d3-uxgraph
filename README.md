@@ -34,7 +34,7 @@ export default {
 And to use it in a template:
 ```javascript
 <barcharts
-	colorOne="#4682B4" 
+    colorOne="#4682B4" 
     labelOne="Success" 
     colorTwo="#d3d3d3" 
     labelTwo="Fail">
@@ -44,7 +44,7 @@ And to use it in a template:
 Result is as follows:
 
 <div align="center">
-  <img width="300" heigth="400" src="/src/assets/hbars.png" alt="uxgraph logo">
+  <img width="300" heigth="400" src="/src/assets/bars.png">
 </div>
 
 ## Available graphs
