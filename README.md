@@ -44,23 +44,31 @@ And to use it in a template:
 Result is as follows:
 
 <div align="center">
-  <img width="400" heigth="400" src="/assets/hbars.png" alt="uxgraph logo">
+  <img width="300" heigth="400" src="/src/assets/hbars.png" alt="uxgraph logo">
 </div>
 
 ## Available graphs
 More graphs would be added during the next stage
 
 ### Sparklines
-![Sparklines](src/assets/sparklines.png)
+<div align="center">
+  <img width="300" heigth="400" src="/src/assets/sparklines.png">
+</div>
 
 ### Line chart
-![Line](src/assets/line.png)
+<div align="center">
+  <img width="300" heigth="400" src="/src/assets/line.png">
+</div>
 
 ### Vertical Bar charts
-![Bar](src/assets/bar.png)
+<div align="center">
+  <img width="300" heigth="400" src="/src/assets/bar.png">
+</div>
 
 ### Horizontal Bar charts
-![Hbar](src/assets/hbars.png)
+<div align="center">
+  <img width="300" heigth="400" src="/src/assets/hbars.png">
+</div>
 
 ## License
 
