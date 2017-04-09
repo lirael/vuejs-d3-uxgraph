@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import Sparklines from './components/Sparklines.vue'
+import Sparklines from './components/Sparklines.js'
 import Linecharts from './components/Linecharts.vue'
 import Barcharts from './components/Barcharts.vue'
 
