@@ -19,7 +19,7 @@ export default {
       default : 'Success'
     },
     colorTwo: {
-      default: '#9902b4'
+      default: '#d3d3d3'
     },
     data: {
       default: function () { 
