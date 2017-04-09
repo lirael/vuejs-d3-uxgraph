@@ -1,3 +1,4 @@
+<template></template>
 <script>
 import Vue from 'vue'
 import * as d3 from 'd3'
