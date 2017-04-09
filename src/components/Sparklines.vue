@@ -1,12 +1,19 @@
-<template>
-  <div class="svg-container" id="sCanvas"></div>
-</template>
-
 <script>
+import Vue from 'vue'
 import * as d3 from 'd3'
 import $ from 'jquery'
 
-export default {
+export default Vue.extend({
+  render: function (create) {
+    return create(
+      'div', {
+        attrs: {
+          id:"sCanvas",
+          class:"svg-container"
+        }
+      }
+    )
+  },
   name: 'sparklines',
   props: {
     label: {
@@ -112,7 +119,7 @@ export default {
         .attr("fill", "black")
     }
   }
-}
+})
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
