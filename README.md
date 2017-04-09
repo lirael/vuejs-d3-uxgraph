@@ -1,15 +1,15 @@
 <div align="center">
-  <img width="256" heigth="256" src="/assets/uxgraph.png" alt="uxgraph logo">
+  <img width="256" heigth="256" src="/src/assets/uxgraph.png" alt="uxgraph logo">
 </div>
 
 # vuejs-d3-uxgraph
 
 > Vue wrapper for d3.js predesigned somponents
 
-## Live demo and code
+## Live demo and code example
 
 - Demo: https://lirael.github.io/vuejs-d3-uxgraph-demo/
-- Code: https://github.com/lirael/vuejs-d3-uxgraph
+- Code: https://github.com/lirael/vuejs-d3-uxgraph-demo/
 
 ## Principles used to design the graphs
 
@@ -51,16 +51,16 @@ Result is as follows:
 More graphs would be added during the next stage
 
 ### Sparklines
-![Sparklines](assets/sparklines.png)
+![Sparklines](src/assets/sparklines.png)
 
 ### Line chart
-![Line](assets/line.png)
+![Line](src/assets/line.png)
 
 ### Vertical Bar charts
-![Bar](assets/bar.png)
+![Bar](src/assets/bar.png)
 
 ### Horizontal Bar charts
-![Hbar](assets/hbars.png)
+![Hbar](src/assets/hbars.png)
 
 ## License
 
