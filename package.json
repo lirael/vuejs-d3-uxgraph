@@ -1,10 +1,10 @@
 {
-  "name": "ux-graph",
-  "version": "0.0.2",
+  "name": "vuejs-d3-uxgraph",
+  "version": "0.0.3",
   "license": "MIT",
   "description": "Vue wrapper for d3.js predesigned components",
   "author": "Olena Pastushenko",
-  "email": "pastushenko.olena#gmail.com",
+  "email": "pastushenko.olena@gmail.com",
   "private": false,
   "repository": {
     "type": "git",

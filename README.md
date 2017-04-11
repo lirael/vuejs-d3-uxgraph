@@ -19,7 +19,7 @@ All designs are based on recommendations of Stephen Few described in a book "Inf
 
 ## How to use with npm 
 
-[![NPM](https://nodei.co/npm/ux-graph.png?downloads=true&downloadRank=true)](https://nodei.co/npm/ux-graph/)
+[![NPM](https://nodei.co/npm/ux-graph.png?downloads=true&downloadRank=true)](https://nodei.co/npm/vuejs-d3-uxgraph/)
 
 Firstly you need to create Vue wrapper component. Exaple of `SparklinesBase.vue`:
 
