@@ -1,6 +1,6 @@
 {
   "name": "ux-graph",
-  "version": "1.0.13",
+  "version": "0.0.1",
   "license": "MIT",
   "description": "Vue wrapper for d3.js predesigned components",
   "author": "Olena Pastushenko",
