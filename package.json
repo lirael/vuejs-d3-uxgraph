@@ -1,6 +1,6 @@
 {
-  "name": "vue-d3-uxgraph",
-  "version": "0.0.3",
+  "name": "ux-graph",
+  "version": "0.0.2",
   "license": "MIT",
   "description": "Vue wrapper for d3.js predesigned components",
   "author": "Olena Pastushenko",
