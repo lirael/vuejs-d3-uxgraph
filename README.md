@@ -1,4 +1,4 @@
-![](./src/assets/uxgraph.png =250x)
+![](/src/assets/uxgraph.png =250x)
 
 # vuejs-d3-uxgraph
 
@@ -83,22 +83,32 @@ And to use it in a template:
 
 Result is as follows:
 
-![](./src/assets/bar.png =300x)
+![](/src/assets/bar.png)
 
 ## Available graphs
 More graphs would be added during the next stage
 
 ### Sparklines
-![](./src/assets/sparklines.png=300x)
+![](/src/assets/sparklines.png =300x)
 
 ### Line chart
-![](./src/assets/line.png =300x)
+![Line](/src/assets/line.png =300x)
 
 ### Vertical Bar charts
-![](./src/assets/bar.png =300x)
+![](/src/assets/bar.png =300x)
 
 ### Horizontal Bar charts
-![](./src/assets/hbars.png =300x)
+![](/src/assets/hbars.png =300x)
+
+## Contributing
+
+1. Fork it ( https://github.com/lirael/vuejs-d3-uxgraph/fork )
+2. Create new branch for your feature (`git checkout -b new-feature`)
+3. Commit your changes (`git commit -m 'Feature description'`)
+4. Push to the branch (`git push origin new-feature`)
+5. Create a new Pull Request
+
+Thanks!
 
 ## License
 
