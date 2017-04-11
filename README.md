@@ -8,8 +8,7 @@
 
 [![npm version](https://badge.fury.io/js/ux-graph.svg)](https://badge.fury.io/js/ux-graph)
 [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/ux-graph)
-[![npm](https://img.shields.io/npm/dt/express.svg)](https://www.npmjs.com/package/ux-graph)
-[![npm](https://img.shields.io/npm/l/express.svg?style=plastic)](https://www.npmjs.com/package/ux-graph)
+[![npm](https://img.shields.io/npm/l/express.svg)](https://www.npmjs.com/package/ux-graph)
 
 ## Live demo and code example
 
