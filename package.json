@@ -1,5 +1,5 @@
 {
-  "name": "vuejs-d3-uxgraph",
+  "name": "vue-d3-uxgraph",
   "version": "0.0.3",
   "license": "MIT",
   "description": "Vue wrapper for d3.js predesigned components",

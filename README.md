@@ -2,7 +2,7 @@
    <img width="256" heigth="256" src="https://github.com/lirael/vuejs-d3-uxgraph/blob/master/src/assets/uxgraph.png?raw=true" alt="uxgraph logo">
 </div>
 
-# vuejs-d3-uxgraph
+# vue-d3-uxgraph
 
 > Vue wrapper for d3.js predesigned somponents
 
@@ -19,7 +19,7 @@ All designs are based on recommendations of Stephen Few described in a book "Inf
 
 ## How to use with npm 
 
-[![NPM](https://nodei.co/npm/ux-graph.png?downloads=true&downloadRank=true)](https://nodei.co/npm/vuejs-d3-uxgraph/)
+[![NPM](https://nodei.co/npm/ux-graph.png?downloads=true&downloadRank=true)](https://nodei.co/npm/vue-d3-uxgraph/)
 
 Firstly you need to create Vue wrapper component. Exaple of `SparklinesBase.vue`:
 
@@ -29,7 +29,7 @@ Firstly you need to create Vue wrapper component. Exaple of `SparklinesBase.vue`
 </template>
 
 <script>
-import { Sparklines } from 'ux-graph'
+import { Sparklines } from 'vue-d3-uxgraph'
 
   export default Sparklines.extend({
     mounted () {
