@@ -7,9 +7,7 @@
 > Vue wrapper for d3.js predesigned somponents
 
 [![npm version](https://badge.fury.io/js/ux-graph.svg)](https://badge.fury.io/js/ux-graph)
-[![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/ux-graph)
 [![npm](https://img.shields.io/npm/l/express.svg)](https://www.npmjs.com/package/ux-graph)
-[![npm](https://img.shields.io/npm/dt/express.svg)](https://www.npmjs.com/package/ux-graph)
 
 ## Live demo and code example
 
@@ -23,6 +21,10 @@ All designs are based on recommendations of Stephen Few described in a book "Inf
 ## How to use
 
 Since the pakage is not available in `npm` yet, at this stage it is needed to manualy import components with a needed graph. Then you can use it as usual Vue instance, and pass custom parameters when needed.
+
+## npm usage
+
+[![NPM](https://nodei.co/npm/ux-graph.png?downloads=true&downloadRank=true)](https://nodei.co/npm/ux-graph/)
 
 ### To create a component
 
