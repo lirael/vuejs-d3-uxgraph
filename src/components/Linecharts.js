@@ -116,4 +116,4 @@ export default Vue.extend({
         .attr("fill", "black")
     }
   }
-}
+})
