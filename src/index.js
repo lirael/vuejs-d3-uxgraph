@@ -1,4 +1,4 @@
-import Sparklines from './components/Sparklines.js'
+import Sparklines from './components/Sparklines.vue'
 import Linecharts from './components/Linecharts.js'
 import Barcharts from './components/Barcharts.js'
 
