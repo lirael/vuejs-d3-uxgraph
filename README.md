@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="256" heigth="256" src="https://github.com/lirael/vuejs-d3-uxgraph/blob/master/src/assets/uxgraph.png" alt="uxgraph logo">
+   <img width="256" heigth="256" src="https://github.com/lirael/vuejs-d3-uxgraph/blob/master/src/assets/uxgraph.png?raw=true" alt="uxgraph logo">
 </div>
 
 # vuejs-d3-uxgraph
@@ -7,9 +7,6 @@
 > Vue wrapper for d3.js predesigned somponents
 
 > *Please,note:* library is still in the development mode!!!
-
-[![npm version](https://badge.fury.io/js/ux-graph.svg)](https://badge.fury.io/js/ux-graph)
-[![npm](https://img.shields.io/npm/l/express.svg)](https://www.npmjs.com/package/ux-graph)
 
 ## Live demo and code example
 
