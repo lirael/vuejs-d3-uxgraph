@@ -1,10 +1,12 @@
-![](/src/assets/uxgraph.png =250x)
+<div align="center">
+   <img width="256" heigth="256" src="https://github.com/lirael/vuejs-d3-uxgraph/blob/master/src/assets/uxgraph.png" alt="uxgraph logo">
+</div>
 
 # vuejs-d3-uxgraph
 
 > Vue wrapper for d3.js predesigned somponents
 
-> *Please,note:* library is still in the development mode! 
+> *Please,note:* library is still in the development mode!!!
 
 [![npm version](https://badge.fury.io/js/ux-graph.svg)](https://badge.fury.io/js/ux-graph)
 [![npm](https://img.shields.io/npm/l/express.svg)](https://www.npmjs.com/package/ux-graph)
@@ -83,22 +85,32 @@ And to use it in a template:
 
 Result is as follows:
 
-![](/src/assets/bar.png)
+<div align="center">
+   <img width="300" src="https://github.com/lirael/vuejs-d3-uxgraph/blob/master/src/assets/bar.png?raw=true" alt="uxgraph logo">
+</div>
 
 ## Available graphs
 More graphs would be added during the next stage
 
 ### Sparklines
-![](/src/assets/sparklines.png =300x)
+<div align="center">
+   <img width="300" src="https://github.com/lirael/vuejs-d3-uxgraph/blob/master/src/assets/sparklines.png?raw=true" alt="uxgraph logo">
+</div>
 
 ### Line chart
-![Line](/src/assets/line.png =300x)
+<div align="center">
+   <img width="300" src="https://github.com/lirael/vuejs-d3-uxgraph/blob/master/src/assets/line.png?raw=true" alt="uxgraph logo">
+</div>
 
 ### Vertical Bar charts
-![](/src/assets/bar.png =300x)
+<div align="center">
+   <img width="300" src="https://github.com/lirael/vuejs-d3-uxgraph/blob/master/src/assets/bar.png?raw=true" alt="uxgraph logo">
+</div>
 
 ### Horizontal Bar charts
-![](/src/assets/hbars.png =300x)
+<div align="center">
+   <img width="300" src="https://github.com/lirael/vuejs-d3-uxgraph/blob/master/src/assets/hbars.png?raw=true" alt="uxgraph logo">
+</div>
 
 ## Contributing
 
