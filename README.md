@@ -9,6 +9,7 @@
 [![npm version](https://badge.fury.io/js/ux-graph.svg)](https://badge.fury.io/js/ux-graph)
 [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/ux-graph)
 [![npm](https://img.shields.io/npm/l/express.svg)](https://www.npmjs.com/package/ux-graph)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://www.npmjs.com/package/ux-graph)
 
 ## Live demo and code example
 
